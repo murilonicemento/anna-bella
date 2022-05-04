@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+body{
+    background: #d2d2c1 url(img/fundo.png);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(75, 86, 106);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#paginaprincipal{
+    background-color: rgb(197, 197, 178);
+    width: 880px;
+    height: 35px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#conteudo{
+    background-color: rgb(232, 232, 217);
+    width: 880px;
+    height: 260px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+h1{
+    color: rgb(130, 130, 113);
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+.campanhapubli{
+    border: 10px solid #c3c3ae;
+}
+
+.cabeçalho{
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 350px;
+}
